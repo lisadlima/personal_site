@@ -1,0 +1,19 @@
+# Lisa Dlima
+
+> Robotics & Hardware Technical Leader. 13 years shipping products at Google, Meta, and Amazon: home robots, AI glasses, and data center hardware. Holds patents from Meta and Amazon. B.S. Mechanical Engineering (Ohio State); M.S. Computer Science, Machine Learning (Georgia Tech, expected 2026). Provides private consulting for startups, building robotics and hardware teams that ship, and takes bookings for speaking: conferences, panels, and interviews.
+
+## Work
+
+- [Work](https://lisadlima.com/work): Astro home robot (Amazon Lab126, Product Design Lead), Ray-Ban Meta glasses and Oakley Meta Vanguard AI (Meta Reality Labs, Product Design Lead), data center hardware (Google Cloud, Technical Lead), Intel WiGig wireless VR prototype for HTC Vive (CES 2017)
+
+## Patents & publications
+
+- [Patents](https://lisadlima.com/patents): US 11,338,616 wheel mechanism for autonomous mobile device (granted 2022); US 2026/0079358 A1 servicing and maintaining wearable devices (pending)
+- Publications: Microvasculature segmentation in HuBMAP (Georgia Institute of Technology, 2023); Riptide AUV AUVSI RoboSub Journal (2016); MATE Journal Paper (2015)
+
+## More
+
+- [Press](https://lisadlima.com/press): Amazon Astro Behind the Science, Grace Hopper Celebration feature, CES 2017 wireless VR, Center for Automotive Research Honda partnership
+- [Blog](https://lisadlima.com/blog): How attention works; Digital Commerce
+- [About](https://lisadlima.com/about)
+- [Contact](https://lisadlima.com/contact): consulting and speaking inquiries
